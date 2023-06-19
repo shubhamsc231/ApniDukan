@@ -59,4 +59,15 @@ code {
   background-color: white;
   width: 140px;
   padding: 5px;
+  cursor: pointer;
+}
+
+.itemlist>ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+
+.itemlist>ul>li {
+  margin-right: 20px;
 }

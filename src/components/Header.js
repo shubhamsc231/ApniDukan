@@ -7,8 +7,8 @@ const Header = () => {
                 <SearchBox />
             </div>
             <button className='loginButton'>Login</button>
-            <div >Become a Seller</div>
-            <div>More</div>
+            <div className='searchButton'>Become a Seller</div>
+            <div className='searchButton'>More</div>
             <button className='searchButton'>CART</button>
         </div>)
 }
