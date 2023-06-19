@@ -10,7 +10,9 @@ const Layout = () => {
                     <Link to="/login">Login</Link>
                 </li>
             </ul>
+            <Outlet />
         </nav>
+
     )
 }
 
