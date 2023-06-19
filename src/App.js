@@ -1,9 +1,9 @@
 import './App.css';
 import Home from './pages/Home';
-import { ReactDOM } from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Login from './pages/Login.js';
-import Layout from './pages/Layout.js';
+//import { ReactDOM } from 'react-dom/client';
+//import { BrowserRouter, Routes, Route } from "react-router-dom";
+//import Login from './pages/Login.js';
+//import Layout from './pages/Layout.js';
 function App() {
   return (
     <>
